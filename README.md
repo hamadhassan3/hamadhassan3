@@ -47,5 +47,5 @@
 
 <hr>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamadhassan3&show_icons=true&layout=compact&theme=dark&hide=stars" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamadhassan3&show_icons=true&layout=compact&theme=blue-green&hide=stars" />
 </a>
