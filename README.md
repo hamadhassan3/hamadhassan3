@@ -5,7 +5,7 @@
 ## 📝📧 Contact
 
 <p align="left">
-  <a href="www.linkedin.com/in/hammad-hassan-a802b3190" target="_blank"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/hammad-hassan-a802b3190" target="_blank"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:hamadhassan3@gmail.com" target="_blank"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
