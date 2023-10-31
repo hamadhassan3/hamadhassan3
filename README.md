@@ -1,7 +1,12 @@
 - 👋 Hi, I’m Hammad Hassan
-- 👀 I’m interested in Blockchain and Machine Learning
-- 🌱 I’m currently learning Python
+![](https://komarev.com/ghpvc/?username=mehboobali98)
 
+## 📝📧 Contact
+
+<p align="left">
+  <a href="www.linkedin.com/in/hammad-hassan-a802b3190" target="_blank"><img title="Follow on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:hamadhassan3@gmail.com" target="_blank"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ## 👩‍💻🚀 Skills
 
